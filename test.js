@@ -1,1 +1,1 @@
-document.write("Hello fgt.")
+document.write("dickbutt.png")
