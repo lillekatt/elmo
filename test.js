@@ -1,1 +1,1 @@
-document.write("dickbutt.png")
+document.write("notdickbutt")
