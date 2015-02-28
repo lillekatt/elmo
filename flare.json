@@ -671,46 +671,18 @@
                             "name": "Cact_A2",
                             "children": [
                               {
-                                "name": "Yiff_A3",
+                                "name": "Couerl_C1",
                                 "children": [
                                   {
-                                    "name": "Couerl_C1",
+                                    "name": "Bmut_A3",
                                     "children": [
                                       {
-                                        "name": "Bmut_A3",
+                                        "name": "Bomb_B3",
                                         "children": [
                                           {
-                                            "name": "Bomb_B3",
-                                            "children": [
-                                              {
-                                                "name": "Win"
-                                              }
-                                            ]
+                                            "name": "Win"
                                           }
                                         ]
-                                      }
-                                    ]
-                                  }
-                                ]
-                              },
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "name": "Bmut_B2",
-                        "children": [
-                          {
-                            "name": "Couerl_C1",
-                            "children": [
-                              {
-                                "name": "Yiff_A3",
-                                "children": [
-                                  {
-                                    "name": "Bomb_B3",
-                                    "children": [
-                                      {
-                                        "name": "Win"
                                       }
                                     ]
                                   }
