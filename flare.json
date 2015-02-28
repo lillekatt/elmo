@@ -291,6 +291,29 @@
                                     ]
                                   }
                                 ]
+                              },
+                              {
+                                "name": "Uri_B2",
+                                "children": [
+                                  {
+                                    "name": "Bomb_A2",
+                                    "children": [
+                                      {
+                                        "name": "Bahamut_B3",
+                                        "children": [
+                                          {
+                                            "name": "Cact_A3",
+                                            "children": [
+                                              {
+                                                "name": "Loss"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
                               }
                             ]
                           }
