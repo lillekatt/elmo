@@ -25,14 +25,7 @@
                                 {
                                   "name": "Coeurl_A1",
                                   "children": [
-                                    {
-                                      "name": "Bmut_B1",
-                                      "children": [
-                                        {
-                                          "name": "Win"
-                                        }
-                                      ]
-                                    }
+                                    { "name": "Bmut_B1" }
                                   ]
                                 }
                               ]
@@ -46,35 +39,38 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "name": "Dodo_C3",
+      "children": [
+    {
+      "name": "Gbert_C2",
+      "children": [
         {
-          "name": "Mandy_B2",
+          "name": "Mandy_A1",
           "children": [
             {
-              "name": "Yiffy_C2",
+              "name": "Tits_B1",
               "children": [
                 {
-                  "name": "Dodo_B3",
+                  "name": "Coeurl_C1",
                   "children": [
                     {
-                      "name": "Gbert_A2",
+                      "name": "Bmut_A2",
                       "children": [
                         {
                           "name": "Bomb_A3",
                           "children": [
                             {
-                              "name": "H&M_B1",
+                              "name": "Uri_B3",
                               "children": [
                                 {
-                                  "name": "Coeurl_A1",
+                                  "name": "Cact_B2",
                                   "children": [
                                     {
-                                      "name": "Bmut_B1",
-                                      "children": [
-                                        {
-                                          "name": "Win"
-                                        }
-                                      ]
+                                      "name": "Win"
                                     }
                                   ]
                                 }
@@ -91,6 +87,8 @@
           ]
         }
       ]
+    }
+  ]
     }
   ]
 }
