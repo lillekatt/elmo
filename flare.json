@@ -692,44 +692,6 @@
                 ]
               },
               {
-                "name": "Gil_B3",
-                "children": [
-                  {
-                    "name": "Mandy_B1",
-                    "children": [
-                      {
-                        "name": "Gil_A3",
-                        "children": [
-                          {
-                            "name": "Couerl_A1",
-                            "children": [
-                              {
-                                "name": "Cact_B2",
-                                "children": [
-                                  {
-                                    "name": "Uri_C1",
-                                    "children": [
-                                      {
-                                        "name": "Bomb_A2",
-                                        "children": [
-                                          {
-                                            "name": "Win"
-                                          }
-                                        ]
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
                 "name": "Gbert_B3",
                 "children": [
                   {
