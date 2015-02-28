@@ -2,7 +2,7 @@
   "name": "Start",
   "children": [
     {
-      "name": "Blue Starts"
+      "name": "Blue Starts",
       "children": [
           {
             "name": "Uri_C3",
@@ -188,7 +188,7 @@
         ]
     },
     {
-      "name": "Red Starts"
+      "name": "Red Starts",
       "children": [
           {
             "name": "Dodo_C3",
