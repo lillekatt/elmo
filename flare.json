@@ -194,6 +194,34 @@
                                 ]
                               }
                             ]
+                          },
+                          {
+                            "name": "Titan_C1",
+                            "children": [
+                              {
+                                "name": "Couerl_A1",
+                                "children": [
+                                  {
+                                    "name": "H&M_A2",
+                                    "children": [
+                                      {
+                                        "name": "Bomb_B1",
+                                        "children": [
+                                          {
+                                            "name": "Bahamut_A3",
+                                            "children": [
+                                              {
+                                                "name": "Loss"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
                           }
                         ]
                       }
