@@ -1,247 +1,305 @@
 {
-  "name": "start",
+  "name": "Start",
   "children": [
     {
-      "name": "Uri_C3",
+      "name": "Blue Starts"
       "children": [
-        {
-          "name": "Mandy_B2",
-          "children": [
-            {
-              "name": "Yiffy_C2",
-              "children": [
-                {
-                  "name": "Dodo_B3",
-                  "children": [
-                    {
-                      "name": "Gbert_A2",
-                      "children": [
-                        {
-                          "name": "Bomb_A3",
-                          "children": [
-                            {
-                              "name": "H&M_B1",
-                              "children": [
-                                {
-                                  "name": "Coeurl_A1",
-                                  "children": [
-                                    { "name": "Bmut_C1",
-                                      "children": [
-                                        {
-                                          "name": "Win"
-                                        }
+          {
+            "name": "Uri_C3",
+            "children": [
+              {
+                "name": "Mandy_B2",
+                "children": [
+                  {
+                    "name": "Yiffy_C2",
+                    "children": [
+                      {
+                        "name": "Dodo_B3",
+                        "children": [
+                          {
+                            "name": "Gbert_A2",
+                            "children": [
+                              {
+                                "name": "Bomb_A3",
+                                "children": [
+                                  {
+                                    "name": "H&M_B1",
+                                    "children": [
+                                      {
+                                        "name": "Coeurl_A1",
+                                        "children": [
+                                          { "name": "Bmut_C1",
+                                            "children": [
+                                              {
+                                                "name": "Win"
+                                              }
+                                              ]
+                                          }
                                         ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Gbert_C2",
-              "children": [
-                {
-                  "name": "Dodo_B3",
-                  "children": [
-                    {
-                      "name": "Tit_B1",
-                      "children": [
-                        {
-                          "name": "Couerl_C1",
-                          "children": [
-                            {
-                              "name": "H&M_A1",
-                              "children": [
-                                {
-                                  "name": "Bomb_A2",
-                                  "children": [
-                                    {
-                                      "name": "Bmut_A3",
-                                      "children": [
-                                        {
-                                          "name": "Draw"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Gbert_C2",
+                    "children": [
+                      {
+                        "name": "Dodo_B3",
+                        "children": [
+                          {
+                            "name": "Tit_B1",
+                            "children": [
+                              {
+                                "name": "Couerl_C1",
+                                "children": [
+                                  {
+                                    "name": "H&M_A1",
+                                    "children": [
+                                      {
+                                        "name": "Bomb_A2",
+                                        "children": [
+                                          {
+                                            "name": "Bmut_A3",
+                                            "children": [
+                                              {
+                                                "name": "Draw"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+          {
+            "name": "Yiff_A3",
+            "children": [
+              {
+                "name": "Bomb_A2",
+                "children": [
+                  {
+                    "name": "Tit_B2",
+                    "children": [
+                      {
+                        "name": "Cact_B3",
+                        "children": [
+                          {
+                            "name": "Gbert_B1",
+                            "children": [
+                              {
+                                "name": "Coeurl_A1",
+                                "children": [
+                                  {
+                                    "name": "Uri_C3",
+                                    "children": [
+                                      {
+                                        "name": "Dodo_C2",
+                                        "children": [
+                                          {
+                                            "name": "Bmut_C1",
+                                            "children": [
+                                              {
+                                                "name": "Win"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Yiff_B3",
+            "children": [
+              {
+                "name": "Mandy_A2",
+                "children": [
+                  {
+                    "name": "Gbert_A1",
+                    "children": [
+                      {
+                        "name": "Couerl_B2",
+                        "children": [
+                          {
+                            "name": "Gil_B1",
+                            "children": [
+                              {
+                                "name": "Bomb_A3",
+                                "children": [
+                                  {
+                                    "name": "Bmut_C2",
+                                    "children": [
+                                      {
+                                        "name": "Cact_C3",
+                                        "children": [
+                                          {
+                                            "name": "Uri_C1",
+                                            "children": [
+                                              {
+                                                "name": "Draw"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
     },
     {
-      "name": "Dodo_C3",
+      "name": "Red Starts"
       "children": [
-        {
-          "name": "Gbert_C2",
-          "children": [
-            {
-              "name": "Mandy_A1",
-              "children": [
-                {
-                  "name": "Tit_B1",
-                  "children": [
-                    {
-                      "name": "Coeurl_C1",
-                      "children": [
-                        {
-                          "name": "Bmut_A2",
-                          "children": [
-                            {
-                              "name": "Bomb_A3",
-                              "children": [
-                                {
-                                  "name": "Uri_B3",
-                                  "children": [
-                                    {
-                                      "name": "Cact_B2",
-                                      "children": [
-                                        {
-                                          "name": "Win"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Gil_B1",
-                  "children": [
-                    {
-                      "name": "Cact_A2",
-                      "children": [
-                        {
-                          "name": "Couerl_C1",
-                          "children": [
-                            {
-                              "name": "Bmut_A3",
-                              "children": [
-                                {
-                                  "name": "Bomb_B3",
-                                  "children": [
-                                    {
-                                      "name": "Win"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Titan_C1",
-                  "children": [
-                    {
-                      "name": "Couerl_B1",
-                      "children": [
-                        {
-                          "name": "Bmut_B2",
-                          "children": [
-                            {
-                              "name": "Cact_A2",
-                              "children": [
-                                {
-                                  "name": "Yiffy_B3",
-                                  "children": [
-                                    {
-                                      "name": "Bomb_A3",
-                                      "children": [
-                                        {
-                                          "name": "Draw"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Yiff_A3",
-      "children": [
-        {
-          "name": "Bomb_A2",
-          "children": [
-            {
-              "name": "Tit_B2",
-              "children": [
-                {
-                  "name": "Cact_B3",
-                  "children": [
-                    {
-                      "name": "Gbert_B1",
-                      "children": [
-                        {
-                          "name": "Coeurl_A1",
-                          "children": [
-                            {
-                              "name": "Uri_C3",
-                              "children": [
-                                {
-                                  "name": "Dodo_C2",
-                                  "children": [
-                                    {
-                                      "name": "Bmut_C1",
-                                      "children": [
-                                        {
-                                          "name": "Win"
-                                        }
-                                      ]
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+          {
+            "name": "Dodo_C3",
+            "children": [
+              {
+                "name": "Gbert_C2",
+                "children": [
+                  {
+                    "name": "Mandy_A1",
+                    "children": [
+                      {
+                        "name": "Tit_B1",
+                        "children": [
+                          {
+                            "name": "Coeurl_C1",
+                            "children": [
+                              {
+                                "name": "Bmut_A2",
+                                "children": [
+                                  {
+                                    "name": "Bomb_A3",
+                                    "children": [
+                                      {
+                                        "name": "Uri_B3",
+                                        "children": [
+                                          {
+                                            "name": "Cact_B2",
+                                            "children": [
+                                              {
+                                                "name": "Win"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Gil_B1",
+                        "children": [
+                          {
+                            "name": "Cact_A2",
+                            "children": [
+                              {
+                                "name": "Couerl_C1",
+                                "children": [
+                                  {
+                                    "name": "Bmut_A3",
+                                    "children": [
+                                      {
+                                        "name": "Bomb_B3",
+                                        "children": [
+                                          {
+                                            "name": "Win"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Titan_C1",
+                        "children": [
+                          {
+                            "name": "Couerl_B1",
+                            "children": [
+                              {
+                                "name": "Bmut_B2",
+                                "children": [
+                                  {
+                                    "name": "Cact_A2",
+                                    "children": [
+                                      {
+                                        "name": "Yiffy_B3",
+                                        "children": [
+                                          {
+                                            "name": "Bomb_A3",
+                                            "children": [
+                                              {
+                                                "name": "Draw"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
     }
   ]
 }
