@@ -23,7 +23,7 @@
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script>
 
-var diameter = 1500;
+var diameter = 1000;
 
 var tree = d3.layout.tree()
     .size([360, diameter / 2 - 120])
@@ -64,6 +64,6 @@ d3.json("flare.json", function(error, root) {
       .text(function(d) { return d.name; });
 });
 
-d3.select(self.frameElement).style("height", diameter + "px");
+d3.select(self.frameElement).style("height", diameter - 150 + "px");
 
 </script>
