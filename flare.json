@@ -2,7 +2,7 @@
   "name": "Start",
   "children": [
     {
-      "name": "Blue Starts",
+      "name": "Red Starts",
       "children": [
           {
             "name": "Uri_C3",
@@ -188,7 +188,7 @@
         ]
     },
     {
-      "name": "Red Starts",
+      "name": "Blue Starts",
       "children": [
           {
             "name": "Dodo_C3",
@@ -219,6 +219,29 @@
                                             "children": [
                                               {
                                                 "name": "Win"
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "H&M_A2",
+                                "children": [
+                                  {
+                                    "name": "Bomb_A3",
+                                    "children": [
+                                      {
+                                        "name": "Uri_B2",
+                                        "children": [
+                                          {
+                                            "name": "Cact_B3",
+                                            "children": [
+                                              {
+                                                "name": "Loss"
                                               }
                                             ]
                                           }
