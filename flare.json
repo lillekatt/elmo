@@ -4,15 +4,15 @@
     {
       "name": "Uri_C3",
       "children": [
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"},
-        {"name": "Mandy_B2"}
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500},
+        {"name": "Mandy_B2", size=2500}
       ]
     }
   ]
