@@ -4,8 +4,8 @@
   {
    "name": "animate",
    "children": [
-    {"name": "Easing", "size": 500},
-    {"name": "FunctionSequence", "size": 5842},
+    {"name": "Easing"},
+    {"name": "FunctionSequence"},
     {
      "name": "interpolate",
      "children": [
